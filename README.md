@@ -1,7 +1,7 @@
 # my-stuff
 # Sample Story
 
-## Projektorius
+## langas
 
 This is an sample md (.md) file written in markdown language for easy documentation of github code repos and story telling.
 
